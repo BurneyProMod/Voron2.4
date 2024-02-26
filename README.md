@@ -8,7 +8,7 @@ The build incorporates the following key electronics components:
 
 - [Octopus Pro V1.1](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro) - Mainboard
 - [BTT U2C](https://github.com/bigtreetech/U2C) - USB to CAN Module
-- [EBB SB2209 CAN](https://github.com/bigtreetech/EBB/tree/master/EBB%20SB2240_2209%20CAN/Build%20Guide) - Stepper Motor Drivers
+- [EBB SB2209 CAN](https://github.com/bigtreetech/EBB/tree/master/EBB%20SB2240_2209%20CAN) - Stepper Motor Drivers
 
 ## Voron Mods Used
 
@@ -16,7 +16,6 @@ The build incorporates the following key electronics components:
 - [Carry Handles](https://mods.vorondesign.com/detail/xa84lhUN5aMX4nmfZquaQ)
 - [Voron 2.4 Extrusion Jig](https://mods.vorondesign.com/detail/SSoHrEC3VElDLwDLw2GA5Q)
 - [BTT Smart Filament Sensor Mount](https://mods.vorondesign.com/detail/yrBU4iTiddQRSvLqSDWMuA)
-- [Extrusion Jig](https://mods.vorondesign.com/detail/SSoHrEC3VElDLwDLw2GA5Q) (Duplicate link, consider if this was intentional or another mod was meant to be listed)
 - [Bed Support Alignment Tools](https://mods.vorondesign.com/detail/uyUx7XLef032YYu60SAvg)
 - [Belt Tension Meter](https://mods.vorondesign.com/detail/fmmg4Yx2BLULkfDDpZnAng)
 
