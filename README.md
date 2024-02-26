@@ -27,6 +27,7 @@ The build incorporates the following key electronics components:
 
 The following items are on the agenda to be incorporated into the build or documentation:
 
+- [Sensorless Homing](https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html)
 - [Klipper Adaptive Meshing Purging](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
 - [Enraged Rabbit Carrot Feeder v2 (ERCF_v2)](https://github.com/Enraged-Rabbit-Community/ERCF_v2)
 
