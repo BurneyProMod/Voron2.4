@@ -8,7 +8,8 @@ The build incorporates the following key electronics components:
 
 - [Octopus Pro V1.1](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro) - Mainboard
 - [BTT U2C](https://github.com/bigtreetech/U2C) - USB to CAN Module
-- [EBB SB2209 CAN](https://github.com/bigtreetech/EBB/tree/master/EBB%20SB2240_2209%20CAN) - Stepper Motor Drivers
+- [EBB36 CAN](https://github.com/bigtreetech/EBB/tree/master/EBB%20SB2240_2209%20CAN) - Toolhead Board
+- [Cartographer3D](https://docs.cartographer3d.com/cartographer-probe/installation-and-setup/installation/klipper-configuation) - Probe
 
 ## Voron Mods Used
 
