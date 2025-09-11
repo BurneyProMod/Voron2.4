@@ -13,7 +13,6 @@ The build incorporates the following key electronics components:
 
 ## Voron Mods Used
 
-
 - [Carry Handles](https://mods.vorondesign.com/detail/xa84lhUN5aMX4nmfZquaQ)
 - [Voron 2.4 Extrusion Jig](https://mods.vorondesign.com/detail/SSoHrEC3VElDLwDLw2GA5Q)
 - [BTT Smart Filament Sensor Mount](https://mods.vorondesign.com/detail/yrBU4iTiddQRSvLqSDWMuA)
